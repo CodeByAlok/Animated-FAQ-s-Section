@@ -11,7 +11,7 @@ A visually appealing and interactive Frequently Asked Questions (FAQ) section bu
 
 ## 🚀 Demo
 
-[Live Demo](#)
+[Live Demo](https://github.com/CodeByAlok/Animated-FAQ-s-Section/blob/main/assests/demo.png)
 
 ## 📁 Project Structure
 
